@@ -1,0 +1,23 @@
+.category-protection-check{
+    display: flex;
+    margin-top: 20px;
+}
+.checkboxes{
+    margin-left: 20px;
+    margin-top: 30px;
+   
+}
+.category-protection-password{
+    display: flex;
+    margin-top: 40px;
+}
+.passwords{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.passwords .form-row {
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    align-items: center;
+    margin: 0 0 10px;
+}
